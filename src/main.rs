@@ -10,4 +10,4 @@ fn main() {
     warn!("{:#?}", "The lamb was sure to go");
 }
 
-//DEBUG
+// exec with: RUST_LOG=debug cargo run
